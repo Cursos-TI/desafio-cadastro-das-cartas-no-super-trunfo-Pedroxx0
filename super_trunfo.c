@@ -70,18 +70,18 @@ int main(){
     printf("Nome da cidade: %s\n", nome_cidade1);
     printf("População: %i\n", populacao1);
     printf("Área: %f\n", area1);
-    printf("PIB: %f\n", area1);
+    printf("PIB: %f\n", pib1);
     printf("Número de Pontos Turísticos: %d\n", npt1);
 
     // saídas dos atributos da carta 2
     printf("Carta: 1\n");
-    printf("Estado: %c\n", estado1);
-    printf("Código: %s\n", cod1);
-    printf("Nome da cidade: %s\n", nome_cidade1);
-    printf("População: %i\n", populacao1);
-    printf("Área: %f\n", area1);
-    printf("PIB: %f\n", area1);
-    printf("Número de Pontos Turísticos: %d", npt1);
+    printf("Estado: %c\n", estado2);
+    printf("Código: %s\n", cod2);
+    printf("Nome da cidade: %s\n", nome_cidade2);
+    printf("População: %i\n", populacao2);
+    printf("Área: %f\n", area2);
+    printf("PIB: %f\n", pib2);
+    printf("Número de Pontos Turísticos: %d", npt2);
 
 
     return 0;
